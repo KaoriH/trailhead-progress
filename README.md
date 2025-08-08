@@ -11,8 +11,8 @@ Hi! I'm currently learning Salesforce development through Trailhead.
 
 ## 🚀 In Progress
 
-- Test preparation
-  
+- Prepare for Your Salesforce Platform App Builder Certification
+    
 ## 📌 Goal
 
 To apply my previous experience in design and data to become a Salesforce Developer.
