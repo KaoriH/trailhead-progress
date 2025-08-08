@@ -7,11 +7,12 @@ Hi! I'm currently learning Salesforce development through Trailhead.
 - Admin Beginner
 - Developer Beginner
 - Build an Event Registration App
+- Developer Intermediate
 
 ## 🚀 In Progress
 
-- Developer Intermediate
-
+- Test preparation
+  
 ## 📌 Goal
 
 To apply my previous experience in design and data to become a Salesforce Developer.
