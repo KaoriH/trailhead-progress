@@ -16,3 +16,5 @@ Hi! I'm currently learning Salesforce development through Trailhead.
 ## 📌 Goal
 
 To apply my previous experience in design and data to become a Salesforce Developer.
+
+_Last updated: August 2025_
