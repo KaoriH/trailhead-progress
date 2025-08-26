@@ -8,7 +8,8 @@ Hi! I'm currently learning Salesforce development through Trailhead.
 - Developer Beginner
 - Build an Event Registration App
 - Developer Intermediate
-
+- Build a Data Model for a Recruiting App
+  
 ## 🚀 In Progress
 
 - Prepare for Your Salesforce Platform App Builder Certification
